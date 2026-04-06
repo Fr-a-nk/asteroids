@@ -1,4 +1,4 @@
-A free to play astroid game.
+A free to play/edit and open-source astroid game.
 
 Future ideas:
 
